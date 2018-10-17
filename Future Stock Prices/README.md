@@ -1,0 +1,1 @@
+Predicting future stock prices of Tesla Inc. in the period of next 30 days. Implementation of Linear Regression and Random Forrest models
